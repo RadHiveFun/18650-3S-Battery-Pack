@@ -1,0 +1,10 @@
+.DS_Store
+
+# Local article draft. Keep this out of the public hardware repository.
+docs/Building a Compact 3S 18650 Battery Pack for QRP Radio.md
+
+# Keep large source-video files local. Photos and GIFs remain in the repository.
+*.mp4
+*.MP4
+*.lrf
+*.LRF
